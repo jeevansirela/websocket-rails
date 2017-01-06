@@ -3,7 +3,7 @@
 
 module WebsocketRails
   class BaseController
-    class RandomController
+    class SocketController
 
       def search
         puts "dasda"
