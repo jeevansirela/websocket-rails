@@ -18,7 +18,6 @@ module WebsocketRails
   #
   #
   class BaseController
-
     # We need process_action to be in a module loaded before AbstractController::Callbacks
     # to get inheritance properly
     module Metal
